@@ -1,0 +1,12 @@
+
+p { color:red; text-align: center;}
+
+.blue {
+  color:blue;
+  text-align: right;
+}
+
+#black {
+  color:black;
+  text-align: left;
+}
